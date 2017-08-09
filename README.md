@@ -1,1 +1,1 @@
-# DecisionTrees_RandomForests
+A decision tree is constructed using the given data to predict the forest cover type, where mutual information (or conditional entropy) is used as the criteria for selecting the attribute to split on.
